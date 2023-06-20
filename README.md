@@ -1,6 +1,12 @@
 # renewable-energy-prediction
 ## WIH2001 Data Analytics (Group Assignment)
 
+### Group Members
+1. Muhammad Danial Haikal Bin Mastirana (U2001426)
+2. Megat Faris Putra Bin Megat Mehamat Kaharrudin (U2001086)
+3. Janice Chong See Wai (S2132420)
+4. Jasmine Chong See Yan (S2132419)
+
 ### Research Questions
 1. What are the projected energy demand and energy production by 2030?
 2. Can energy production meet energy demand?
